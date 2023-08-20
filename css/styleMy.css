@@ -1,0 +1,52 @@
+
+
+.button  :hover{
+    color: #ddd;
+    border: #ddd 1px;
+    color: #0fb0d3;
+}
+
+
+
+
+
+
+
+
+a{
+    color: #000;
+}
+
+a:link {
+    color: #fff;
+  }
+a:visited {
+    color: #fff;
+  }
+a:hover {
+    color: #0fb0d3;
+  }
+a:active {
+    color: #0fb0d3;
+  }
+
+
+.menu-area-main  a {
+    color: #fff;
+  }
+  
+
+
+
+
+.social_link a {
+    font-size: 24px;
+    color: #161616;
+    background-color: #0fb0d3;
+    border-radius: 80px;
+    width: 40px;
+    height: 41px;
+  }
+
+
+
